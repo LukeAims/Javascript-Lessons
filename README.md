@@ -1,3 +1,3 @@
-BAsic Javascript lessons.
+Basic Javascript lessons.
 
 Use these lessons to learn the fundimentals of JS...
